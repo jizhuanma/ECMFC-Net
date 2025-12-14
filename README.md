@@ -4,9 +4,9 @@ An Enhanced Causal Modeling and Feature Consensus Framework for Temporal Action 
 The code will be released soon.
 
 ## Environment
-- Ubuntu20.04
+- Ubuntu22.04
 -  NVIDIA GeForce RTX 4090
--  Python3.8, PyTorch 2.5.1 and CUDA 12.1
+-  Python3.10, PyTorch 2.5.1 and CUDA 12.1
 -  `h5py,
 joblib,
 matplotlib,
