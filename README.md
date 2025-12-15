@@ -1,7 +1,15 @@
 # ECMFC-Net
 An Enhanced Causal Modeling and Feature Consensus Framework for Temporal Action Detection
 
-The code will be released soon.
+---
+
+## 🚧 Code Status
+
+**Code coming soon.**
+
+The source code is currently under internal cleanup and verification, and will be released upon paper acceptance.
+
+---
 
 ## Environment
 - Ubuntu22.04
