@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyTorch / DL checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Logs and experiment outputs
+logs/
+log/
+work_dirs/
+runs/
+outputs/
+results/
+
+# Dataset and features
+data/
+datasets/
+*.npy
+*.npz
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
